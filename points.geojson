@@ -1,0 +1,125 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.642772,-33.427470 ]
+    },
+    "properties": {
+    "name":"ejemplo 1",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.612543,-33.498644 ]
+    },
+    "properties": {
+    "name":"ejemplo 2",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.984507,-33.418777 ]
+    },
+    "properties": {
+    "name":"ejemplo 3",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.810650,-33.354920 ]
+    },
+    "properties": {
+    "name":"ejemplo 4",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.694505,-33.435198 ]
+    },
+    "properties": {
+    "name":"ejemplo 5",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.660632,-33.468430 ]
+    },
+    "properties": {
+    "name":"ejemplo 6",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.711057,-33.447879 ]
+    },
+    "properties": {
+    "name":"ejemplo 7",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.711885,-33.562170 ]
+    },
+    "properties": {
+    "name":"ejemplo 8",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.645695,-33.464635 ]
+    },
+    "properties": {
+    "name":"ejemplo 9",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.674362,-33.412207 ]
+    },
+    "properties": {
+    "name":"ejemplo 10",
+    "info":"aquí puedes escribir información sobre lo sucedido",
+    "source":"abc"
+    }
+  }
+]
+}
