@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6772987,-33.382155 ]
+    },
+    "properties": {
+    "Nombre":"olla de la abundancia",
+    "Comuna":"conchalí",
+    "Contacto":"56964370291",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6772987,-33.382155 ]
+    },
+    "properties": {
+    "Nombre":"ollas comunes barrios zapadores",
+    "Comuna":"conchalí",
+    "Contacto":"56998465377",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6742287,-33.563302 ]
+    },
+    "properties": {
+    "Nombre":"olla común territorial el bosque",
+    "Comuna":"el bosque ",
+    "Contacto":"56998169185",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5773237,-33.530338 ]
+    },
+    "properties": {
+    "Nombre":"los quillayes",
+    "Comuna":"la florida",
+    "Contacto":"56987740813",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6389637,-33.583518 ]
+    },
+    "properties": {
+    "Nombre":"ayuda particular la pintana",
+    "Comuna":"la pintana ",
+    "Contacto":"56931413467",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7602717,-33.523884 ]
+    },
+    "properties": {
+    "Nombre":"olla solidaria popular maipú",
+    "Comuna":"maipú",
+    "Contacto":"56988107387",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6861948,-33.4881241 ]
+    },
+    "properties": {
+    "Nombre":"asamblea de pobladores de la victoria",
+    "Comuna":"pac",
+    "Contacto":"www.facebook.com/asambleapobladorxslavictoria",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.551797,-33.487343 ]
+    },
+    "properties": {
+    "Nombre":"lo hermida",
+    "Comuna":"peñalolén",
+    "Contacto":"56950000483",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.551797,-33.487343 ]
+    },
+    "properties": {
+    "Nombre":"esperanza andina",
+    "Comuna":"peñalolén",
+    "Contacto":"56988575283",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.551797,-33.487343 ]
+    },
+    "properties": {
+    "Nombre":"asambleaterritorial18octubre",
+    "Comuna":"peñalolén",
+    "Contacto":"@o_asamblea",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58403,-33.589452 ]
+    },
+    "properties": {
+    "Nombre":"jjvv los troncos",
+    "Comuna":"puente alto",
+    "Contacto":"56995279111",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58403,-33.589452 ]
+    },
+    "properties": {
+    "Nombre":"villa nocedal",
+    "Comuna":"puente alto",
+    "Contacto":"56959188060",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58403,-33.589452 ]
+    },
+    "properties": {
+    "Nombre":"semillarte de bajos de mena",
+    "Comuna":"puente alto",
+    "Contacto":"facebook semillarte bajos de mena",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.729962,-33.361092 ]
+    },
+    "properties": {
+    "Nombre":"comité de cesantes de quilicura",
+    "Comuna":"quilicura",
+    "Contacto":"@constanzadayz",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.639622,-33.39846 ]
+    },
+    "properties": {
+    "Nombre":"comedor fray andresito",
+    "Comuna":"recoleta",
+    "Contacto":"conventorecoletafranciscana@gmail.com",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.699068,-33.608094 ]
+    },
+    "properties": {
+    "Nombre":"comedor social cinco pinos",
+    "Comuna":"san bernardo",
+    "Contacto":"56985277198",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.698274,-33.606816 ]
+    },
+    "properties": {
+    "Nombre":"lomas de nos ",
+    "Comuna":"san bernardo",
+    "Contacto":"56986053020",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.656085,-33.488556 ]
+    },
+    "properties": {
+    "Nombre":"cocina solidaria barrio atacama",
+    "Comuna":"san miguel",
+    "Contacto":"56999098115",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.647111,-33.533323 ]
+    },
+    "properties": {
+    "Nombre":"olla común la bandera",
+    "Comuna":"san ramón",
+    "Contacto":"56987554173",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.645843,-33.448219 ]
+    },
+    "properties": {
+    "Nombre":"observatorio de dd.hh. y violencia policial",
+    "Comuna":"santiago",
+    "Contacto":"56996187831",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  }
+]
+}
